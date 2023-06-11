@@ -1,7 +1,7 @@
 Oi, eu sou Igor Sales!
 
 - 🔭 Foco em back-end
-- 🌱 Atualmente estudando Java
+- 🌱 Atualmente estudando NodeJS
 - 📫 Email para contato: igor8244@gmail.com
 - 📖 Atualmente cursando Ciências da Computação
  <div>
