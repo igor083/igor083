@@ -1,15 +1,4 @@
-Oi, eu sou Igor Sales!
 
-- 🔭 Desenvolvedor Backend at Porto Seguro
-- 🌱 Atualmente estudando NodeJS
-- 📫 Email para contato: igor8244@gmail.com
-- 📖 Atualmente cursando Ciências da Computação
- <div>
-
- 
- <div/>
- 
- <br>
  ### Hi there, I'm Igor Sales 👋
 
 🚀 Backend developer at CWI (Porto Seguro Bank).
