@@ -3,7 +3,7 @@
 
 🚀 Backend developer at CWI (Porto Seguro Bank).
 
-🎓 Computer Science undergraduate — bridging academic foundations with hands-on engineering experience.
+🎓 Computer Science graduate bridging academic foundations with hands-on engineering experience.
 
 🛠️ Tech stack:
   Java · Spring Boot · Node.js · Angular
